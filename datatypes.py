@@ -30,7 +30,7 @@ print(five // afloat)
 
 #concatenation of strings
 
-name = name + " use is to login"
+name = name + " use this to login"
 print(name)
 
 #objects to be convered in intermediate python cheers
